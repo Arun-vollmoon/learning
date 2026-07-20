@@ -2,7 +2,7 @@ import java.sql.*;
 
 class Acc_balance {
 
-    private static  int A_no = 55; // fixed account, no creation needed
+    private static  int A_no = 55;
 
     public double getBalance() {
         double balance = 0;
@@ -21,7 +21,6 @@ class Acc_balance {
         }
         return balance;
     }
-
     public void setBalance(double newBalance) {
         try (Connection con = mysql_connection.getConnection();
              PreparedStatement ps = con.prepareStatement(
