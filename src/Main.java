@@ -19,13 +19,13 @@ public class Main {
                        Exit enter 4
                         Enter your choice""");
 
-
             int choice = sc.nextInt();
+            char i;
             switch (choice) {
                 case 1:
                     dep.inc_balance();
                     System.out.println("you want to continue Y/N");
-                    char i=sc.next().charAt(0);
+                    i=sc.next().charAt(0);
                     if(i=='y'||i=='Y'){
                         System.out.println("-----***--***-----");
                     }
@@ -36,8 +36,8 @@ public class Main {
                 case 2:
                     with.dec_balance();
                     System.out.println("you want to continue Y/N");
-                    char j=sc.next().charAt(0);
-                    if(j=='y'||j=='Y'){
+                    i=sc.next().charAt(0);
+                    if(i=='y'||i=='Y'){
                         System.out.println("-----***--***-----");
                     }
                     else {
@@ -47,8 +47,8 @@ public class Main {
                 case 3:
                     check.checkBalance();
                     System.out.println("you want to continue Y/N");
-                    char k=sc.next().charAt(0);
-                    if(k=='y'||k=='Y'){
+                    i=sc.next().charAt(0);
+                    if(i=='y'||i=='Y'){
                         System.out.println("-----***--***-----");
                     }
                     else {
