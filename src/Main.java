@@ -16,7 +16,9 @@ public class Main {
                        deposit money enter 1..
                        withdraw money enter 2..
                        check balance enter 3..
-                       eixt enter 4""");
+                       Exit enter 4
+                        Enter your choice""");
+
 
             int choice = sc.nextInt();
             switch (choice) {
@@ -58,7 +60,7 @@ public class Main {
                     running = false;
                     break;
                 default:
-                    System.out.println("......please entered valid charecter......");
+                    System.out.println("......please entered valid character......");
             }
         }
     }

@@ -6,7 +6,7 @@ public class Withdraw extends Acc_balance{
         System.out.print("How mush you withdraw $.. ");
         float withdraw_amount = sc.nextFloat();
         if (withdraw_amount <= getBalance()) {
-            float bal=getBalance();
+            double bal=getBalance();
             bal =bal-withdraw_amount;
             setBalance(bal);
             System.out.println("......Your amount is credited succesfully......");
@@ -16,4 +16,3 @@ public class Withdraw extends Acc_balance{
 
     }
 }
-
