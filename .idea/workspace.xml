@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d61a37f9-16f3-4ed1-9c4c-d0ad28c457ce" name="Changes" comment="initial Association_Aggretion_Composition">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfece_seg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/varibale.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3GXQdWSb72guWKF3FSYV4tE08Qd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.compare.executor": "Run",
+    "Application.date.executor": "Run",
+    "Application.functional_interface.executor": "Run",
+    "Application.generic.executor": "Run",
+    "Application.stream.executor": "Run",
+    "Application.string.executor": "Run",
+    "Application.varibale.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Lenovo/IdeaProjects/sample/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d61a37f9-16f3-4ed1-9c4c-d0ad28c457ce" name="Changes" comment="" />
+      <created>1784115524188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784115524188</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial Association_Aggretion_Composition">
+      <option name="closed" value="true" />
+      <created>1784619541883</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1784619541883</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial Association_Aggretion_Composition" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial Association_Aggretion_Composition" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
