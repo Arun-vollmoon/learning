@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d61a37f9-16f3-4ed1-9c4c-d0ad28c457ce" name="Changes" comment="initial Association_Aggretion_Composition">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/compar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/compare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functional_interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfece_seg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/varibale.java" afterDir="false" />
-    </list>
+    <list default="true" id="d61a37f9-16f3-4ed1-9c4c-d0ad28c457ce" name="Changes" comment="initial Association_Aggretion_Composition" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
